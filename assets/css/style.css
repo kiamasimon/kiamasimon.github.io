@@ -330,12 +330,12 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 15px 0;
   overflow: hidden;
 }
 
 .section-title {
-  text-align: center;
+  text-align: left;
   padding-bottom: 30px;
 }
 
